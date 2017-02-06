@@ -495,7 +495,7 @@ FB.api(
          FB.logout(function (response) {
             //Do what ever you want here when logged out like reloading the page
            // window.location.reload();
-            window.location.href = 'p1.jsp';
+            window.location.href = 'index.jsp';
         });
     }
             </script>
